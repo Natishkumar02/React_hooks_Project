@@ -10,7 +10,7 @@ body.light {
 
 body.dark {
   background-color: #1e1e1e;
-  color: #000; /* Change text color to black */
+  color: #000;
   display: flex;
   justify-content: center;
   align-items: center;
